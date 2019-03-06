@@ -1,0 +1,5 @@
+ws:
+  address: http://localhost:8080/asierg/ws/helloworld
+
+server:
+  port: 8083
